@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Introduction
+
+This project is a single page application where we can know abount any country with the help of country-code. We need to put country code (like- in for India, pk for pakistan, np for nepal, uk for unighted kingdom etc.) and hit the submit button to get the related details in the tabular form. The system holds the history of 5 recent searces and rejects the request for new API searches untill the last one is resolved.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
