@@ -2,6 +2,9 @@
 
 This project is a single page application where we can know abount any country with the help of country-code. We need to put country code (like- in for India, pk for pakistan, np for nepal, uk for unighted kingdom etc.) and hit the submit button to get the related details in the tabular form. The system holds the history of 5 recent searces and rejects the request for new API searches untill the last one is resolved.
 
+![portal](https://user-images.githubusercontent.com/76211214/104167080-c161d400-5421-11eb-9c0d-7e6e6a5cb4fd.PNG)
+
+
 ## Project Setup
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
